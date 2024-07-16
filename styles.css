@@ -1,4 +1,10 @@
-
+h1.title {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
 
 h2.blogarea {
     color: black;
@@ -10,7 +16,6 @@ div.blogarea {
     outline: black;
     outline-style: solid;
     outline: show;
-    padding-top: 400px;
     margin: 30px;
 }
 
@@ -21,4 +26,12 @@ div.projectarea {
     outline: show;
     padding-bottom: 400px;
     margin: 30px;
+}
+
+a.linkedin{
+    background-image: "images/linkedin.png";
+}
+
+a.github {
+    background-image: "images/github.png";
 }
