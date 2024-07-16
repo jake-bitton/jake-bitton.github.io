@@ -1,6 +1,9 @@
+.site {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 h1.title {
     color: black;
-    font-family: 'Times New Roman', Times, serif;
     font-size: 24px;
     margin-top: 20px;
     margin-left: 10px;
@@ -8,7 +11,6 @@ h1.title {
 
 h2.blogarea {
     color: black;
-    font-family: 'Times New Roman', Times, serif;
 }
 
 div.blogarea {
@@ -17,6 +19,10 @@ div.blogarea {
     outline-style: solid;
     outline: show;
     margin: 30px;
+}
+div.post {
+    padding-left: 10px;
+    
 }
 
 div.projectarea {
@@ -28,9 +34,11 @@ div.projectarea {
 }
 
 a.linkedin{
-    background-image: "images/linkedin.png";
+    width: 64px;
+    height: 64px;
 }
 
 a.github {
-    background-image: "images/github.png";
+    width: 64px;
+    height: 64px;
 }
