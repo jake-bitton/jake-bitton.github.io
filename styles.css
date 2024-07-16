@@ -1,0 +1,10 @@
+h2.blogarea {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div.blogarea {
+    background-color: white;
+    outline: black;
+    outline-style: solid;
+}
