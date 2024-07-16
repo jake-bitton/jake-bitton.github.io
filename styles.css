@@ -33,11 +33,9 @@ div.projectarea {
 }
 
 a.linkedin{
-    width: 64px;
-    height: 64px;
+    margin: 15px;
 }
 
 a.github {
-    width: 64px;
-    height: 64px;
+    margin: 15px;
 }
