@@ -1,3 +1,5 @@
+
+
 h2.blogarea {
     color: black;
     font-family: 'Times New Roman', Times, serif;
@@ -7,4 +9,16 @@ div.blogarea {
     background-color: white;
     outline: black;
     outline-style: solid;
+    outline: show;
+    padding-top: 400px;
+    margin: 30px;
+}
+
+div.projectarea {
+    background-color: white;
+    outline: black;
+    outline-style: solid;
+    outline: show;
+    padding-bottom: 400px;
+    margin: 30px;
 }
