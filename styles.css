@@ -36,3 +36,11 @@ a.linkedin{
 a.github {
     margin: 30px;
 }
+
+div.aboutme {
+    background-color: white;
+    outline: black;
+    outline-style: solid;
+    outline: show;
+    margin: 30px;
+}
