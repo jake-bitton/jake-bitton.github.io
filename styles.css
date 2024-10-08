@@ -4,6 +4,7 @@ h1.title {
     margin-top: 20px;
     margin-left: 10px;
     display: inline-block;
+    text-align: center;
 }
 
 h2.blogarea {
@@ -30,12 +31,24 @@ div.projectsarea {
     margin: 30px;
 }
 
+a:link, a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    scale: 1.4;
+}
+
 a.linkedin{
     margin: 30px;
+    align-self: center;
 }
 
 a.github {
     margin: 30px;
+    align-self: center;
 }
 
 div.aboutme {
@@ -44,4 +57,6 @@ div.aboutme {
     outline-style: solid;
     outline: show;
     margin: 30px;
+    text-align: center;
+    size: 300px;
 }
