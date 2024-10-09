@@ -6,7 +6,7 @@ h1.title {
 
 .pages {
     text-align: center;
-    padding: 15px;
+    padding: 25px;
 }
 
 h2.blogarea {
@@ -46,11 +46,13 @@ a:hover{
 a.linkedin{
     margin: 30px;
     align-self: center;
+    display: inline;
 }
 
 a.github {
     margin: 30px;
     align-self: center;
+    display: inline;
 }
 
 div.aboutme {
@@ -59,6 +61,8 @@ div.aboutme {
     outline-style: solid;
     outline: show;
     margin: 30px;
+    display: inline;
     text-align: center;
     height: min-content;
     width: fit-content;
+}
